@@ -6,7 +6,7 @@ def read_file(filename):
 def send_email(content):
     sender = "uskhuunymdavaa9@gmail.com"
     password = "diky pwdc zhwh xwdh"
-    receiver = "kenshimobile13@gmail.com"
+    receiver = "paridamuratkhan8@gmail.com"
 
     msg = MIMEText(content)
     msg["Subject"] = "File-ээс явуулсан email 😎"
